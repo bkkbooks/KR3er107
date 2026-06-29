@@ -1,0 +1,127 @@
+canonical_identifier: bkk:krp/KR3er107/v1
+canonical_location: https://kanripo.org/bkk/KR3er107/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 歐蠱燃犀錄
+  identifiers:
+    krp: KR3er107
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er107.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er107_000.yaml, hash: 'sha256:a80831817089a082fe0c6203b9a67c0c55ef08ca578fb01835854f80425d3b68'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er107_000.markers.yaml, hash: 'sha256:6f091012aa54349c0663982b47b6eff370e55b3f2a9bdedf61bc50643ae9bc51'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 438
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 3772
+  label: 原蠱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d4.h1s1
+    span:
+    - body
+    - 3772
+    - 4245
+  label: 避蠱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d5.h1s1
+    span:
+    - body
+    - 4245
+    - 4590
+  label: 驗蠱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d6.h1s1
+    span:
+    - body
+    - 4590
+    - 5560
+  label: 益證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d7.h1s1
+    span:
+    - body
+    - 5560
+    - 5702
+  label: 蠱脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d8.h1s1
+    span:
+    - body
+    - 5702
+    - 7596
+  label: 治蠱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d9.h1s1
+    span:
+    - body
+    - 7596
+    - 18640
+  label: 蠱案
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d10.h1s1
+    span:
+    - body
+    - 18640
+    - 19035
+  label: 附錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er107_jc_000-d11.h1s1
+    span:
+    - body
+    - 19035
+    - 19036
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:b5722cba20566e3e610ea608af4dc04653d484c21536e3c3ca5d21074f311f8f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
