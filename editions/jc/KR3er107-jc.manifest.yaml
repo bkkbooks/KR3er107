@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er107_000-jc.yaml, hash: 'sha256:4b731f56735c35cb4dfc16f04f03e0e211a0584297dbb8d70a3e49d536052dfc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er107_000-jc.markers.yaml, hash: 'sha256:6854b5e1148d4a0b506a489176c3500dfa3a14d625041cb86695f95a9a3cadf1'}
+  - {seq: 0, role: markers, filename: assets/KR3er107_000-jc.markers.yaml, hash: 'sha256:ac9adb0f1100766129fa37fe4b519e4a53a44bdc13227c7d05443932dc2b298d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -121,4 +121,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:b83b7afe12734bf6b7348fc28d89ef52e6ab5a79948c1ac02c10e77da61d5dc0
+hash: sha256:6761e5218f213643294a8b18a1384a5368649ff7c90708d37df427ddcac2d534
